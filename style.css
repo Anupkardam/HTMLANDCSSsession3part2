@@ -1,0 +1,41 @@
+body{
+    font-family: 'Lato', sans-serif;
+    
+}
+.row{
+    display: flex;
+    display: 1000px;
+}
+    
+
+.abc{
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right:10px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.alt{
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 50px;
+
+}
+.Esc{
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 400px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
